@@ -38,6 +38,5 @@ Step 3: Build and run the project from your IDE.
 
 Step 4: The text editor application should start, and you can begin creating, editing, and formatting text files using the provided features.
 
-# Dependencies
-This project has no external dependencies. It is built using Java Standard Edition (SE), so you need to have a compatible Java Development Kit (JDK) installed on your machine.
+
 
