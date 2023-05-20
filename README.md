@@ -25,6 +25,7 @@ This is a simple text editor written in Java SE that provides various features t
 **Background color:** Change the background color of the editor to create a personalized working environment.
 ## Proper Indentation
 The text editor ensures proper indentation of the content, making it easier to read and maintain the structure of the text.
+The indentation feature aims to maintain the same level of indentation on the next line when the user presses the Enter key.
 
 # Getting Started
 To run the text editor project, follow these steps:
