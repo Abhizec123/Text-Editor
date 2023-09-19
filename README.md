@@ -38,5 +38,18 @@ Step 3: Build and run the project from your IDE.
 
 Step 4: The text editor application should start, and you can begin creating, editing, and formatting text files using the provided features.
 
+# Screenshots
 
+![image](https://github.com/Abhizec123/Text-Editor/assets/79994725/675d232f-1be5-4996-8fe8-416029bf90ba)
 
+![image](https://github.com/Abhizec123/Text-Editor/assets/79994725/afba5899-f8dd-4a60-acff-f1036e5253cd)
+
+![image](https://github.com/Abhizec123/Text-Editor/assets/79994725/ae1104ac-1dd8-4a46-a9ff-f247a2f11c3d)
+
+![image](https://github.com/Abhizec123/Text-Editor/assets/79994725/e5ea0d90-23c5-4525-ba5b-3426bdabb136)
+
+![image](https://github.com/Abhizec123/Text-Editor/assets/79994725/9b094270-9022-449e-821b-311a2e81f122)
+
+![image](https://github.com/Abhizec123/Text-Editor/assets/79994725/93e5dfc8-0e35-4d6a-9eba-d4d1225106e1)
+
+![image](https://github.com/Abhizec123/Text-Editor/assets/79994725/e9d3e51a-c9b2-4dba-adb7-3b6672722478)
